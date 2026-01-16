@@ -76,17 +76,17 @@ What this does:
 
 #### 4. Trigger: Choose Daily.
 
-    - Set the start time.
+- Set the start time.
 
-    - You can edit it later to repeat every 5 minutes (in the Properties > Triggers tab).
+- You can edit it later to repeat every 5 minutes (in the Properties > Triggers tab).
 
 #### 5. Action: Choose Start a program.
 
-    - Program/script: Type `python.exe` (or the full path to your python executable).
+- Program/script: Type `python.exe` (or the full path to your python executable).
 
-    - Add arguments: Type `hostrecon.py --auto`.
+- Add arguments: Type `hostrecon.py --auto`.
 
-    - Start in: Paste the full path to your project folder (e.g., `C:\Users\Name\HostRecon`).
+- Start in: Paste the full path to your project folder (e.g., `C:\Users\Name\HostRecon`).
 
 #### 6. Click Finish
 
